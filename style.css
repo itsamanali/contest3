@@ -110,3 +110,10 @@ body{
     padding: 0px;
     margin: 0px;
 }
+.container-fluid{
+ padding-left: 100px;
+ padding-right: 100px;
+}
+.navbar-brand{
+    font-weight: 500;
+}
